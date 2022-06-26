@@ -6,6 +6,7 @@ Um projeto simples e interessante de fazer, sendo muito satisfatório colocar os
 
 ### Imagem da página
 
-<center>
-![Exemplo do jogo](./GIFdemo.gif)
-</center>
+|Exemplo|
+|-------|
+|![Exemplo do jogo](./GIFdemo.gif)|
+
