@@ -131,8 +131,5 @@ document.querySelector('[area-jogo]').onclick = function(){Timer()}
 //     }
 // }
 // document.getElementById('hide').onclick = function(){showHide(1)}
-<<<<<<< HEAD
 // document.getElementById('show').onclick = function(){showHide(0)}
-=======
 // document.getElementById('show').onclick = function(){showHide(0)}
->>>>>>> 7d64b157847388cda4abf8976b6f4d8dba444e76
