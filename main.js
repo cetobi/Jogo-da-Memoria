@@ -132,4 +132,3 @@ document.querySelector('[area-jogo]').onclick = function(){Timer()}
 // }
 // document.getElementById('hide').onclick = function(){showHide(1)}
 // document.getElementById('show').onclick = function(){showHide(0)}
-// document.getElementById('show').onclick = function(){showHide(0)}
